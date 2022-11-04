@@ -1,0 +1,8 @@
+/.settings
+/.classpath
+/.project
+.DS_Store
+.idea
+target
+cucumber-junit-sample.iml
+headless_screenshot.png
